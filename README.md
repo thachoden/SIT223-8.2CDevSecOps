@@ -1,1 +1,0 @@
-# SIT223-8.2CDevSecOps
